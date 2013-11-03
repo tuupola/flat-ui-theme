@@ -1,6 +1,6 @@
 ![Flat UI theme with JavaScript](http://www.appelsiini.net/img/flat-ui-head.png)
 
-[Flat UI theme](http://www.appelsiini.net/2013/flat-ui-for-textmate-sublime) for TextMate 2 and Sublime Text. It is based on colors of the amazing [Flat UI Pro](http://designmodo.com/flat/?u=583) framework made by [Designmodo](http://designmodo.com/flat/?u=583). Theme is for oldschool hackers who prefer their terminal windows to be green or yellow on black. It offers just enough highlighting without looking like a rainbow.
+[Flat UI theme](http://www.appelsiini.net/2013/flat-ui-for-textmate-sublime) for TextMate 2 and Sublime Text. It is based on colors of the amazing [Flat UI Pro](http://designmodo.com/flat/?u=583) framework made by [Designmodo](http://designmodo.com/flat/?u=583). Theme is for oldschool hackers who prefer their terminal windows to be green or yellow on black. It offers just enough highlighting without looking like a rainbow. If you are looking for something similar but lighter check [Toy Chest](https://github.com/JacksonGariety/Toy-Chest-Theme).
 
 ## Textmate 2
 
@@ -26,4 +26,3 @@ Change the <code>color_scheme</code> setting.
 
 ![Install Sublime Text](http://www.appelsiini.net/img/sublime-settings.png)
 
-If you are looking for something similar but lighter check [Toy Chest](https://github.com/JacksonGariety/Toy-Chest-Theme).
